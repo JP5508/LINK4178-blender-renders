@@ -1,3 +1,5 @@
+![CAPA](./capa.jpg)
+
 # LINK._.4178 Blender Renders
 
 Este repositório contém algumas renderizações... é assim que fala? Algumas Renders de coisinhas que eu faço no **Blender**. Talvez sirva de portfólio, galeria, algo do tipo... sei lá. Mas ta aí, como eu faço coisas para algumas pessoas, serve para eles poderem baixar as renders com maior qualidade do que enviar por whatsapp, né.

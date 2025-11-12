@@ -1,0 +1,4 @@
+Morango: #e8848e
+Baunilha: #e0cd88
+Chocolate: #875935
+Colher: #151515

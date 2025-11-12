@@ -1,0 +1,62 @@
+Nick: 
+-bioma/estrutura: 
+-bloco: 
+-item: 
+-mob: 
+-cor: 
+
+Nick: LINK._.4178
+-bioma/estrutura: deep dark
+-bloco: ametista
+-item: arco
+-mob: warden
+-cor: cinza
+
+Nick: AlyNerd
+-bioma/estrutura: Floresta de bétula
+-bloco: ametista
+-item: maçã dourada
+-mob: lobo
+-cor: roxo
+
+Nick: PrChan
+-bioma/estrutura: Taiga nevada
+-bloco: pedra com musgo
+-item: lança
+-mob: golem
+-cor: Rosa
+
+Nick: FelpsAle
+-bioma/estrutura: floresta cinzenta
+-bloco: Tronco de Carvalho Pálido
+-item: balde com axolote
+-mob: wither skeleton
+-cor: amarelo
+
+Nick: alffo
+-bioma/estrutura: floresta cinza
+-bloco: tijolos do nether
+-item: elytra
+-mob: tatu
+-cor: vermelho
+
+Nick: YoyoDeco
+-bioma/estrutura: sunflower plains
+-bloco: Estante de livro
+-item: Olho do fim
+-mob: parrot
+-cor: verde
+
+Nick: TH0NTHO
+-bioma/estrutura: Mina Abandonada
+-bloco: Madeira Carmesim (bruta)
+-item: Picareta de Ferro
+-mob: Creeper
+-cor: Vermelho
+
+Nick: Amyzita Pipo
+-bioma/estrutura: Campo de Cogumelos
+-bloco: Madeira Distorcida (bruta)
+-item: Arco
+-mob: Enderman
+-cor: Roxo
